@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    width: 480px;
+    height:480px;
+    box-sizing: border-box;
+    flex-wrap:wrap;
+    
+}
+.cuadrado{
+    
+    width: 30px;
+    height:30px;
+    border: 1px solid black;
+    box-sizing: border-box;
+
+}
